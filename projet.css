@@ -1,0 +1,185 @@
+#bg
+{
+	background-image:url("bgpic.jpg");
+	
+	}
+#bg2
+{
+	background-image:url("bgpic2.jpg");
+	background-attachment:fixed;
+	}
+	#bg3
+{
+	background-image:url("s8.jpg");
+	background-attachment:fixed;
+	}
+header
+{
+	background-color:black ;
+	
+}
+#logo
+{
+	float:right;
+}
+#titre
+{
+	font-family:'comic sans ms' ;
+	text-align:center ;
+	font-size: 30px ;
+	text-transform: uppercase ;
+	color : white ;
+}	
+#navp 
+{ 
+color : white ;
+background-color: black ;
+font-family:'Trebuchet MS'  ;
+}
+#tdh 
+{
+	
+	font-size:20px ;
+	text-align:center;
+}
+
+	
+
+a
+{
+	text-decoration: none;
+}
+#ahead{ 
+text-decoration: none; 
+color: red;
+ font-style:italic;
+} 
+#ahead:hover 
+{
+  color:white ;
+}
+#pintro
+{
+	color:white ;
+	font-size:24px ;
+	font-family:arial ;
+		
+}
+#h1intro
+{
+	font-family:'Trebuchet MS' ;
+	color:blue ;
+	font-size:40px ; 
+	text-shadow: 2px 2px 4px  red;
+}
+#vid
+{
+	float:right;
+}
+#tdp 
+{
+	color:black ;
+	font-size:20px ;
+	font-family:'Trebuchet MS' ;
+	background-color:grey ;
+	text-align:center ;
+}
+#prixtb 
+{ 
+width:80%;
+
+}
+
+#aprix 
+{
+	color: yellow ;
+	font-family:'comic sans ms'  ;
+	
+}
+
+#aprix:hover  
+{
+	color: blue ;
+}
+#tout
+{
+	font-size:30px ;
+	font-family:'Trebuchet MS' ;
+	color:blue ;
+	text-align:center;
+}
+#bas
+{
+	font-size:30px ;
+	font-family:'Trebuchet MS' ;
+	color:red ;
+	text-align:center;
+}
+#moy
+{
+	font-size:30px ;
+	font-family:'Trebuchet MS' ;
+	color:blue ;
+	text-align:center;
+}
+#haut
+{
+	font-size:30px ;
+	font-family:'Trebuchet MS' ;
+	color:gold ;
+	text-align:center;
+}
+#tdd
+{
+	color:white ;
+	font-size:50px;
+	font-family:'Trebuchet MS' ;
+}
+#car
+{
+	color:gold ;
+	font-size:70px;
+	font-family:'Trebuchet MS' ;
+}
+
+
+footer 
+{
+	background-color: black ;
+	color:white ;
+	font-size:20 ;
+	font-family:'Trebuchet MS' ;
+	
+}
+#fb
+{
+	float:center;
+}
+td#fo
+{
+	text-align:center ;
+}
+#legend
+{
+	color:gold;
+	font-size:24px;
+	font-family:'trebuchet ms'
+}
+.ff
+{
+	color:blue;
+	font-size:24px;
+	font-family:'trebuchet ms' ;
+}
+#flech
+{
+	float:right;
+	width:30 ;
+	height:80 ;
+}
+#infoo
+{
+	font-size:45px;
+	color:yellow;
+	font-family:'trebuchet ms'
+}
